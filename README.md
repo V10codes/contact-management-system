@@ -1,3 +1,10 @@
+#Screenshots
+![1](https://github.com/V10codes/contact-management-system/blob/main/client/public/Screenshot%202024-11-16%20103606.png)
+![2](https://github.com/V10codes/contact-management-system/blob/main/client/public/Screenshot%202024-11-16%20103717.png)
+![3](https://github.com/V10codes/contact-management-system/blob/main/client/public/Screenshot%202024-11-16%20103807.png)
+![4](https://github.com/V10codes/contact-management-system/blob/main/client/public/Screenshot%202024-11-16%20103827.png)
+
+
 # Contact Management System
 
 This is a Contact Management System built using a ReactJS frontend, NodeJS backend, and Prisma with MongoDB for database management. It lets users perform CRUD operations.
@@ -64,7 +71,7 @@ This is a Contact Management System built using a ReactJS frontend, NodeJS backe
 
 #### 1. Clone the Repository
 ```bash
-git clone <repository-link>
+git clone https://github.com/V10codes/contact-management-system/
 cd contact-management-system
 ```
 #### 2. Install dependencies
